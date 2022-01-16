@@ -1,3 +1,4 @@
+### Instructions
 step 1: Clone the repository first https://github.com/puskartrital/nproxy.git
 step 2: goto nproxy folder open git-bash or terminal in this folder
 step 3: docker-compose up -d
