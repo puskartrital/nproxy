@@ -12,7 +12,7 @@ username/email: admin@example.com
 password: changeme
 ```
 
-###### Note: please if you're facing permission issues specially linux then do this, the permisson issue be gone after this if occurs again somehow repeat and you're ready to go.
+##### Note: please if you're facing permission issues specially linux then do this, the permisson issue be gone after this if occurs again somehow repeat and you're ready to go.
 
 ``` 
 sudo chown -R www-data:www-data wordpress/
