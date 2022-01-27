@@ -6,6 +6,12 @@
 * step 5: video can be accessed at https://mega.nz/file/lvB2gJgL#RoUKCWsLIshpi2FJAMsfAftLNfkr08cA928v57gN89E
 * step 6: enjoy :)
 
+### Login Details (Default)
+```
+username/email: admin@example.com
+password: changeme
+```
+
 ### Note: please if you're facing permission issues specially linux then do this, the permisson issue be gone after this if occurs again somehow repeat and you're ready to go.
 
 ``` 
